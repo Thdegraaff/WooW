@@ -1,7 +1,7 @@
 # Workshop on Open Workflows (WoOW)
 Test change
 
-## Introduction
+## Introduction (30/45min.)
 
 ### What is a workflow
 
@@ -36,7 +36,7 @@ One that enhances *transparency*, *collaboration* and *reproducibility*
 * Start one step at a time (*A journey of a thousand miles begins with a
   single step*, Lao-tzu)
 
-## Tools for open workflows
+## Tools for open workflows (60/75min.)
 This section will really focus on the principles that inspire tools for Good
 workflows, rather than on the tools themselves (although examples are given as
 illustration).
