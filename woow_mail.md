@@ -5,7 +5,7 @@ We are offering next January, 16, a 2h
 - had to go back to the regression code you wrote months ago to replicate a table that a referee wants slightly different and been unable to trace how in hell it was created in the first place?
 - think that it would be nice if you could easily access the code for that relevant paper whose results do not make much sense? 
 - suffer from a disk failure and lost some of your files because no backup was in place?
-- argues with coauthors which document version was the latest?
+- argue with coauthors which document version was the latest?
 
 If so, you are not the only one: recent scandals ([example](http://www.thewire.com/national/2013/04/umass-student-exposes-serious-flaws-harvard-economists-influential-study/64357/))
 have made clear the need for more transparency and better practices in the way
