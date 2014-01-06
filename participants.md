@@ -1,4 +1,6 @@
-## Participants:
+# Participants:
+
+## Names
 
 	1) Martijn Smit	
 	2) Or Levkovich
@@ -9,3 +11,4 @@
 	7) Eric Pels
 	8) Marjan Hofkes
 	9) Henky Kurniawan
+	
