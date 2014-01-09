@@ -1,7 +1,8 @@
 # Workshop on Open Workflows (WoOW)
-Test change
 
 ## Introduction (30/45min.)
+
+### Why this workshop
 
 ### What is a workflow
 
@@ -27,6 +28,8 @@ One that enhances *transparency*, *collaboration* and *reproducibility*
 
 * Open Science
 * Reproducibility
+* Modularity
+* Portability (across systems and users)
 * Self-sanity
 
 ### When should I adopt an open workflow?
