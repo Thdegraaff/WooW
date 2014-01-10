@@ -61,7 +61,7 @@ Larger Map</a></small>
 ## *Who*
 
 The workshop was originally conceived by [Dani Arribas-Bel](http://darribas.org) and
-[Thomas De Graaff](http://www.thomasdegraaff.net/), both based in the Department of Spatial Economics at the VU University, Amsterdam.
+[Thomas De Graaff](http://www.thomasdegraaff.net/), both based in the Department of Spatial Economics at the VU University Amsterdam.
 
 ## *How*
 
