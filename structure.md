@@ -27,7 +27,14 @@
 
 ### What is a workflow?
 
-#### Empirical cycle
+#### What is an open workflow?
+
+* Workflow: 
+  *Progression of steps (tasks, events, interactions) that comprise a work process, involve two or more persons, and create or add value to the organization's activities* ([BusinessDictionary](http://www.businessdictionary.com/definition/workflow.html))
+
+* Open workflow: One that enhances *transparency*, *collaboration* and *reproducibility*
+
+#### Workflow: Empirical cycle
 * Read other papers
 * Think of a brilliant idea
 * Do:
@@ -40,7 +47,7 @@
 * Send paper to journal and go back once again to i. until referees satisfied
 * And... documenting throughout the entire process!!!
 
-#### Theoretical cycle
+#### Workflow: Theoretical cycle
 * Read other papers
 * Think of a brilliant idea
 * Do:
@@ -52,13 +59,6 @@
   6. Go back to i. until satisfied
 * Send paper to journal and go back once again to i. until referees satisfied
 * And... documenting throughout the entire process!!!
-
-#### What is an open workflow?
-
-* Workflow: 
-  *Progression of steps (tasks, events, interactions) that comprise a work process, involve two or more persons, and create or add value to the organization's activities* ([BusinessDictionary](http://www.businessdictionary.com))
-
-* Open workflow: One that enhances *transparency*, *collaboration* and *reproducibility*
 
 #### Why should a workflow be open?
 
