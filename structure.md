@@ -24,8 +24,21 @@
   3. Analyze data
   4. Write up results
   5. Present results
-  6. Go back to a until satisfied
-* Send paper to journal and go back once again to a until referees satisfied
+  6. Go back to i. until satisfied
+* Send paper to journal and go back once again to i. until referees satisfied
+* And... documenting throughout the entire process!!!
+
+#### Theoretical cycle
+* Read other papers
+* Think of a brilliant idea
+* Do:
+  1. State assumptions
+  2. Model (or simulate)
+  3. Analyze model outcome
+  4. Write up results
+  5. Present results
+  6. Go back to i. until satisfied
+* Send paper to journal and go back once again to i. until referees satisfied
 * And... documenting throughout the entire process!!!
 
 ### What is an open workflow
