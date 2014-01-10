@@ -9,25 +9,25 @@
 * Interest in workflow tools
 * Increasing need for openness & transparancy
    * from journals
-   * cooperation (over wider distances)
+   * increase in cooperation (over wider distances)
    * access to your own files
 * In the *social sciences* few attention to what tools to use (and why)
 
 ### What is a workflow
 
-* Definition here
-* Components of the workflow of the typical Social Scienctist
+#### Empirical cycle
+* Components of the workflow for empirical social Scienctist
 
     * Read other papers
     * Think of a brilliant idea
-    * Collect data
-    * Transform data
-    * Analyze data
-    * Write up results
-    * Present results
-    * Go back to results and modify them
-    * Get results published
-    * Answer interested readers about your research
+    * Do until 
+        1 Collect data
+        2 Transform data
+        3 Analyze data
+        4 Write up results
+        5 Present results
+        6 Go back to 1 until satisfied
+    * Send paper to journal and go back once again to 1 until referees satisfied
     * And... documenting throughout the entire process!!!
 
 ### What is an open workflow
