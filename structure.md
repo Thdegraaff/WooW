@@ -14,8 +14,6 @@
 
 - Conclusion 
 
-# Intro
-
 # 
 
 ## *Why* this workshop?
@@ -87,9 +85,7 @@ Lao-tzu
 # Tools for ...
 ##open workflows
 
-# Tools for ...
-
-### Text editting
+## Text editting
 
 * The blessings of plain text and why it pays off to invest in a (good) text editor
 * Suggestions
@@ -98,7 +94,7 @@ Lao-tzu
     * Emacs
     * Other (TextMate, Sublime text, etc.,...)
 
-### Beautiful (and efficient) typesetting
+## Beautiful (and efficient) typesetting
 
 * Hello plain text
 * Easily convert to a multitude of formats (e.g. LaTeX, HTML)
@@ -106,7 +102,7 @@ Lao-tzu
     * Org
     * Markdown
 
-### Managing lists of papers
+## Managing lists of papers
 
 * *One reference list to rule them all*
 * Create the reference and never worry about proper inserting
@@ -115,7 +111,7 @@ Lao-tzu
     * Reference manager
     * Online services (e.g. Mendeley)
 
-### Analyzing data
+## Analyzing data
 
 * The power of code Vs. point-and-click
 * Platforms for statistical analysis of data
@@ -124,7 +120,7 @@ Lao-tzu
     * R
     * STATA
 
-### Saving the workflow
+## Saving the workflow
 
 * Backup: "You don't need it until you really need it"
 * Versioning control: "How did I get to that table of results?"
