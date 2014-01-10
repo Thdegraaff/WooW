@@ -1,6 +1,6 @@
 # Participants:
 
-## Names
+## Names:
 
 	1) Martijn Smit	
 	2) Or Levkovich
@@ -13,8 +13,10 @@
 	9) Henky Kurniawan
 	10) Chiara Allegri
 	11) Elena Calegari
+	12) Harry van der Weijde
+	13) Jessie Bakens
 	
-## Persons to send sheets/links to notebook:
+## Persons to send material:
 
 	1) Raymond Florax
 	2) Zhiling Wang
