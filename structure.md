@@ -1,6 +1,18 @@
 # Workshop on Open Workflows (WooW)
 
-## Introduction (30/45min.)
+## Introduction (30 min.)
+
+### What are we going to do
+
+#### Contents
+
+1. Introduction: Why discuss this and why this workshop
+2. Tools for (open) workflows (Examples)
+  1. Editing 
+  2. Writing 
+  3. Analysing
+  4. Saving
+3. Conclusion 
 
 ### Why this workshop?
 
@@ -8,12 +20,12 @@
 
 * Interest in workflow tools
 * Increasing need for openness & transparancy
-   * from journals
+   * from journals, universities and government
    * increase in cooperation (over wider distances)
    * access to your own files
 * In the *social sciences* few attention to what tools to use (and why)
 
-### What is a workflow
+### What is a workflow?
 
 #### Empirical cycle
 * Read other papers
@@ -33,7 +45,7 @@
 * Think of a brilliant idea
 * Do:
   1. State assumptions
-  2. Model (or simulate)
+  2. Model (simulate)
   3. Analyze model outcome
   4. Write up results
   5. Present results
@@ -43,17 +55,22 @@
 
 #### What is an open workflow?
 
-One that enhances *transparency*, *collaboration* and *reproducibility*
+* Workflow: 
+  *Progression of steps (tasks, events, interactions) that comprise a work process, involve two or more persons, and create or add value to the organization's activities* ([BusinessDictionary](http://www.businessdictionary.com))
 
-### Why should a workflow be open?
+* Open workflow: One that enhances *transparency*, *collaboration* and *reproducibility*
+
+#### Why should a workflow be open?
 
 * Open Science
 * Reproducibility
+* Transparency
 * Modularity
 * Portability (across systems and users)
+* Efficiency
 * Self-sanity
 
-### When should I adopt an open workflow?
+#### When should I adopt an open workflow?
 
 * The sooner the better
 * But think twice about which one (switching is costly)
