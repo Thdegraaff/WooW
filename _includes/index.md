@@ -7,7 +7,7 @@ Did you ever:
 - *suffer from a disk failure and lost some of your files because no backup was in place?*
 - *argue with co-authors which document version was the latest?*
 
-A recent controversy over a Harvard ([study](http://www.thewire.com/national/2013/04/umass-student-exposes-serious-flaws-harvard-economists-influential-study/64357/)) shows that there is clearly a need for more transparency and better practices in the way
+A recent controversy over a Harvard study ([link](http://www.thewire.com/national/2013/04/umass-student-exposes-serious-flaws-harvard-economists-influential-study/64357/)) shows that there is clearly a need for more transparency and better practices in the way
 economic research is carried out. At the same time, government
 ([example](http://www.rcuk.ac.uk/research/Pages/outputs.aspx)) institutions
 and universities
