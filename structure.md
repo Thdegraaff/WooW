@@ -16,19 +16,17 @@
 ### What is a workflow
 
 #### Empirical cycle
-* Components of the workflow for empirical social Scienctist
-
-    * Read other papers
-    * Think of a brilliant idea
-    * Do:
-        1. Collect data
-        2. Transform data
-        3. Analyze data
-        4. Write up results
-        5. Present results
-        6. Go back to a until satisfied
-    * Send paper to journal and go back once again to a until referees satisfied
-    * And... documenting throughout the entire process!!!
+* Read other papers
+* Think of a brilliant idea
+* Do:
+  1. Collect data
+  2. Transform data
+  3. Analyze data
+  4. Write up results
+  5. Present results
+  6. Go back to a until satisfied
+* Send paper to journal and go back once again to a until referees satisfied
+* And... documenting throughout the entire process!!!
 
 ### What is an open workflow
 One that enhances *transparency*, *collaboration* and *reproducibility*
