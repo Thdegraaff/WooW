@@ -4,8 +4,11 @@ Assuming you've navigated on the terminal to the `revealjs_slides` folder and
 run:
 
     ```
-    > pandoc -t html5 --template=template.revealjs --standalone --section-divs --variable theme="sky"   --variable transition="linear"   structure.md -o structure.html
+    > ./build
     ```
+
+This will pull the latest version of `structure.md` from the master branch and
+will re-generate the slides.
 
 # NOTE
 
