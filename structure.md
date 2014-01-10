@@ -2,9 +2,7 @@
 
 ## Introduction (30 min.)
 
-### What are we going to do
-
-#### Contents
+### Contents
 
 1. Introduction: Why discuss this and why this workshop
 2. Tools for (open) workflows (Examples)
@@ -16,8 +14,6 @@
 
 ### Why this workshop?
 
-#### Why this workshop?
-
 * Interest in workflow tools
 * Increasing need for openness & transparancy
    * from journals, universities and government
@@ -25,16 +21,15 @@
    * access to your own files
 * In the *social sciences* few attention to what tools to use (and why)
 
-### What is a workflow?
 
-#### What is an open workflow?
+### What is an open workflow?
 
 * Workflow: 
   *Progression of steps (tasks, events, interactions) that comprise a work process, involve two or more persons, and create or add value to the organization's activities* ([BusinessDictionary](http://www.businessdictionary.com/definition/workflow.html))
 
 * Open workflow: One that enhances *transparency*, *collaboration* and *reproducibility*
 
-#### Workflow: Empirical cycle
+### Workflow: Empirical cycle
 * Read other papers
 * Think of a brilliant idea
 * Do:
@@ -47,7 +42,7 @@
 * Send paper to journal and go back once again to i. until referees satisfied
 * And... documenting throughout the entire process!!!
 
-#### Workflow: Theoretical cycle
+### Workflow: Theoretical cycle
 * Read other papers
 * Think of a brilliant idea
 * Do:
@@ -60,7 +55,7 @@
 * Send paper to journal and go back once again to i. until referees satisfied
 * And... documenting throughout the entire process!!!
 
-#### Why should a workflow be open?
+### Why should a workflow be open?
 
 * Open Science
 * Reproducibility
@@ -70,30 +65,25 @@
 * Efficiency
 * Self-sanity
 
-#### When should I adopt an open workflow?
+### When should I adopt an open workflow?
 
 * The sooner the better
 * But think twice about which one (switching is costly)
 * Start one step at a time (*A journey of a thousand miles begins with a
   single step*, Lao-tzu)
 
-## Tools for open workflows (60/75min.)
-This section will really focus on the principles that inspire tools for Good
-workflows, rather than on the tools themselves (although examples are given as
-illustration).
+## Tools for open workflows (75min.)
 
-### Writing
-
-#### Text editting
+### Text editting
 
 * The blessings of plain text and why it pays off to invest in a (good) text editor
 * Suggestions
 
     * Vim
     * Emacs
-    * Other (TextMate, Sublime text...)
+    * Other (TextMate, Sublime text, etc.,...)
 
-#### Beautiful (and efficient) typesetting
+### Beautiful (and efficient) typesetting
 
 * Hello plain text
 * Easily convert to a multitude of formats (e.g. LaTeX, HTML)
@@ -101,7 +91,7 @@ illustration).
     * Org
     * Markdown
 
-#### Managing lists of papers
+### Managing lists of papers
 
 * *One reference list to rule them all*
 * Create the reference and never worry about proper inserting
