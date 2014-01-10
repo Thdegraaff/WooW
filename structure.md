@@ -1,8 +1,17 @@
-# Workshop on Open Workflows (WoOW)
+# Workshop on Open Workflows (WooW)
 
 ## Introduction (30/45min.)
 
-### Why this workshop
+### Why this workshop?
+
+#### Why this workshop?
+
+* Interest in workflow tools
+* Increasing need for openness & transparancy
+   * from journals
+   * cooperation (over wider distances)
+   * access to your own files
+* In the *social sciences* few attention to what tools to use (and why)
 
 ### What is a workflow
 
