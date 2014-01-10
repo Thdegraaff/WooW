@@ -1,35 +1,68 @@
-# Workshop on Open Workflows (WoOW)
+# Workshop on Open Workflows (WooW)
 
-## Introduction (30/45min.)
+## Introduction (30 min.)
 
-### Why this workshop
+### Contents
 
-### What is a workflow
+1. Introduction: Why discuss this and why this workshop
+2. Tools for (open) workflows (Examples)
+  1. Editing 
+  2. Writing 
+  3. Analysing
+  4. Saving
+3. Conclusion 
 
-* Definition here
-* Components of the workflow of the typical Social Scienctist
+### Why this workshop?
 
-    * Read other papers
-    * Think of a brilliant idea
-    * Collect data
-    * Transform data
-    * Analyze data
-    * Write up results
-    * Present results
-    * Go back to results and modify them
-    * Get results published
-    * Answer interested readers about your research
-    * And... documenting throughout the entire process!!!
+* Interest in workflow tools
+* Increasing need for openness & transparancy
+   * from journals, universities and government
+   * increase in cooperation (over wider distances)
+   * access to your own files
+* In the *social sciences* few attention to what tools to use (and why)
 
-### What is an open workflow
-One that enhances *transparency*, *collaboration* and *reproducibility*
+
+### What is an open workflow?
+
+* Workflow: 
+  *Progression of steps (tasks, events, interactions) that comprise a work process, involve two or more persons, and create or add value to the organization's activities* ([BusinessDictionary](http://www.businessdictionary.com/definition/workflow.html))
+
+* Open workflow: One that enhances *transparency*, *collaboration* and *reproducibility*
+
+### Workflow: Empirical cycle
+* Read other papers
+* Think of a brilliant idea
+* Do:
+  1. Collect data
+  2. Transform data
+  3. Analyze data
+  4. Write up results
+  5. Present results
+  6. Go back to i. until satisfied
+* Send paper to journal and go back once again to i. until referees satisfied
+* And... documenting throughout the entire process!!!
+
+### Workflow: Theoretical cycle
+* Read other papers
+* Think of a brilliant idea
+* Do:
+  1. State assumptions
+  2. Model (simulate)
+  3. Analyze model outcome
+  4. Write up results
+  5. Present results
+  6. Go back to i. until satisfied
+* Send paper to journal and go back once again to i. until referees satisfied
+* And... documenting throughout the entire process!!!
 
 ### Why should a workflow be open?
 
 * Open Science
 * Reproducibility
+* Transparency
 * Modularity
 * Portability (across systems and users)
+* Efficiency
 * Self-sanity
 
 ### When should I adopt an open workflow?
@@ -39,23 +72,18 @@ One that enhances *transparency*, *collaboration* and *reproducibility*
 * Start one step at a time (*A journey of a thousand miles begins with a
   single step*, Lao-tzu)
 
-## Tools for open workflows (60/75min.)
-This section will really focus on the principles that inspire tools for Good
-workflows, rather than on the tools themselves (although examples are given as
-illustration).
+## Tools for open workflows (75min.)
 
-### Writing
-
-#### Text editting
+### Text editting
 
 * The blessings of plain text and why it pays off to invest in a (good) text editor
 * Suggestions
 
     * Vim
     * Emacs
-    * Other (TextMate, Sublime text...)
+    * Other (TextMate, Sublime text, etc.,...)
 
-#### Beautiful (and efficient) typesetting
+### Beautiful (and efficient) typesetting
 
 * Hello plain text
 * Easily convert to a multitude of formats (e.g. LaTeX, HTML)
@@ -63,7 +91,7 @@ illustration).
     * Org
     * Markdown
 
-#### Managing lists of papers
+### Managing lists of papers
 
 * *One reference list to rule them all*
 * Create the reference and never worry about proper inserting
