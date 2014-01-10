@@ -41,7 +41,8 @@
 * Send paper to journal and go back once again to i. until referees satisfied
 * And... documenting throughout the entire process!!!
 
-### What is an open workflow
+#### What is an open workflow?
+
 One that enhances *transparency*, *collaboration* and *reproducibility*
 
 ### Why should a workflow be open?
