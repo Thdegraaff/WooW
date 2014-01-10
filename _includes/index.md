@@ -7,8 +7,7 @@ Did you ever:
 - *suffer from a disk failure and lost some of your files because no backup was in place?*
 - *argue with co-authors which document version was the latest?*
 
-A recent controversy over a Harvard study shows ([example](http://www.thewire.com/national/2013/04/umass-student-exposes-serious-flaws-harvard-economists-influential-study/64357/))
-that there is clearly a need for more transparency and better practices in the way
+A recent controversy over a Harvard ([study](http://www.thewire.com/national/2013/04/umass-student-exposes-serious-flaws-harvard-economists-influential-study/64357/)) shows that there is clearly a need for more transparency and better practices in the way
 economic research is carried out. At the same time, government
 ([example](http://www.rcuk.ac.uk/research/Pages/outputs.aspx)) institutions
 and universities
@@ -62,7 +61,7 @@ Larger Map</a></small>
 ## *Who*
 
 The workshop was originally conceived by [Dani Arribas-Bel](http://darribas.org) and
-[Thomas De Graaff](http://www.thomasdegraaff.net/), both based in the Department of Spatial Economics of the VU University in Amsterdam.
+[Thomas De Graaff](http://www.thomasdegraaff.net/), both based in the Department of Spatial Economics at the VU University, Amsterdam.
 
 ## *How*
 
