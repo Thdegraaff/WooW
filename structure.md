@@ -21,15 +21,13 @@
     * Read other papers
     * Think of a brilliant idea
     * Do:
-    
-        1. Collect data
-        2. Transform data
-        3. Analyze data
-        4. Write up results
-        5. Present results
-        6. Go back to 1 until satisfied
-        
-    * Send paper to journal and go back once again to 1 until referees satisfied
+        a. Collect data
+        b. Transform data
+        c. Analyze data
+        d. Write up results
+        e. Present results
+        f. Go back to a until satisfied
+    * Send paper to journal and go back once again to a until referees satisfied
     * And... documenting throughout the entire process!!!
 
 ### What is an open workflow
