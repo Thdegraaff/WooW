@@ -1,0 +1,6 @@
+#!/bin/bash
+# Pull latest content from master and build HTML5 slides
+
+git pull origin master
+pandoc -t html5 --template=template.revealjs --standalone --section-divs --variable theme="sky"   --variable transition="linear" ../structure.md -o structure.html
+
