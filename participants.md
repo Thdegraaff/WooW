@@ -15,6 +15,7 @@
 	11) Elena Calegari
 	12) Harry van der Weijde
 	13) Jessie Bakens
+	14) Isfandiarni Soenarto Rosidin (Ifa)
 	
 ## Persons to send material:
 
