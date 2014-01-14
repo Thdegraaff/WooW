@@ -1,61 +1,70 @@
-# Workshop on Open Workflows (WooW)
+% Workshop on Open Workflows 
+% (WooW)
+% Dani Arribas-Bel & Thomas De Graaff
 
-## Introduction (30 min.)
+# Outline
 
-### Contents
+- Introduction: Why discuss this and why this workshop
+- Tools for (open) workflows (Examples)
 
-1. Introduction: Why discuss this and why this workshop
-2. Tools for (open) workflows (Examples)
-  1. Editing 
-  2. Writing 
-  3. Analysing
-  4. Saving
-3. Conclusion 
+    * Editing 
+    * Writing 
+    * Analysing
+    * Saving
 
-### Why this workshop?
+- Conclusion 
 
-* Interest in workflow tools
-* Increasing need for openness & transparancy
-   * from journals, universities and government
-   * increase in cooperation (over wider distances)
-   * access to your own files
-* In the *social sciences* few attention to what tools to use (and why)
+# Intro
 
+# 
 
-### What is an open workflow?
+## *Why* this workshop?
+
+- Interest in workflow tools
+- Increasing need for openness & transparancy
+
+    * from journals, universities and government
+    * increase in cooperation (over wider distances)
+    * access to your own files
+
+- In the *social sciences* few attention to what tools to use (and why)
+
+# Workflow 
+
+## Open?
 
 * Workflow: 
   *Progression of steps (tasks, events, interactions) that comprise a work process, involve two or more persons, and create or add value to the organization's activities* ([BusinessDictionary](http://www.businessdictionary.com/definition/workflow.html))
 
 * Open workflow: One that enhances *transparency*, *collaboration* and *reproducibility*
 
-### Workflow: Empirical cycle
+## Empirical cycle
 * Read other papers
 * Think of a brilliant idea
 * Do:
-  1. Collect data
-  2. Transform data
-  3. Analyze data
-  4. Write up results
-  5. Present results
-  6. Go back to i. until satisfied
+    1. Collect data
+    2. Transform data
+    3. Analyze data
+    4. Write up results
+    5. Present results
+    6. Go back to 1. until satisfied
 * Send paper to journal and go back once again to i. until referees satisfied
 * And... documenting throughout the entire process!!!
 
-### Workflow: Theoretical cycle
+## Theoretical cycle
 * Read other papers
 * Think of a brilliant idea
 * Do:
-  1. State assumptions
-  2. Model (simulate)
-  3. Analyze model outcome
-  4. Write up results
-  5. Present results
-  6. Go back to i. until satisfied
+    1. State assumptions
+    2. Model (simulate)
+    3. Analyze model outcome
+    4. Write up results
+    5. Present results
+    6. Go back to i. until satisfied
 * Send paper to journal and go back once again to i. until referees satisfied
 * And... documenting throughout the entire process!!!
 
-### Why should a workflow be open?
+## Why should it be open?
 
 * Open Science
 * Reproducibility
@@ -65,14 +74,20 @@
 * Efficiency
 * Self-sanity
 
-### When should I adopt an open workflow?
+## When should I adopt an open workflow?
 
 * The sooner the better
 * But think twice about which one (switching is costly)
-* Start one step at a time (*A journey of a thousand miles begins with a
-  single step*, Lao-tzu)
+* Start one step at a time 
 
-## Tools for open workflows (75min.)
+*A journey of a thousand miles begins with a single step* 
+
+Lao-tzu
+
+# Tools for ...
+##open workflows
+
+# Tools for ...
 
 ### Text editting
 
@@ -114,10 +129,11 @@
 * Backup: "You don't need it until you really need it"
 * Versioning control: "How did I get to that table of results?"
 
-## Conclusion
+# Conclusion
 
 TBD
 
+#
 ## Where to look beyond
 
 * *Kieran Healy*'s ["Choosing your Workflow Applications"](http://www.kieranhealy.org/files/misc/workflow-apps.pdf)
