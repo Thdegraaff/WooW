@@ -87,20 +87,49 @@ Lao-tzu
 
 ## Text editting
 
-* The blessings of plain text and why it pays off to invest in a (good) text editor
-* Suggestions
+* Plain text is **simple**, light, cross-platform, flexible...
+* Many **academic** a tools are based on plain text (typesetting systems, scripting
+        languages, bibliography managers)
+* **Good investment** to learn a rich text editor ("learn once, use for
+        everything"):
+    
+    * Efficient typing (command Vs. insert modes)
+    * Syntax highlighting and indenting
+    * Shortcuts, macros and templates
+    * Consistent look, feel and behaviour
+    
+* Examples: Vim, Emacs, other (TextMate, Sublime text, etc.,...)
 
-    * Vim
-    * Emacs
-    * Other (TextMate, Sublime text, etc.,...)
+## Text editting
+
+Vim demo...
+
+* Command Vs Insert mode
+* Syntax highlighting
+* LaTeX shortcuts
+* Python indenting
 
 ## Beautiful (and efficient) typesetting
 
-* Hello plain text
-* Easily convert to a multitude of formats (e.g. LaTeX, HTML)
-    * LaTeX
-    * Org
-    * Markdown
+* Documentation of progress, presentation of results (paper or slides) and
+  final products depend on this
+* **plain text** + **markup languages** = very powerful
+
+    * Dettach content inputting from layout and styling
+    * One source, multiple outputs (paper, slides, website...)
+
+* Examples: LaTeX, Markdown, Org
+
+## Beautiful (and efficient) typesetting
+
+**LaTeX** and **Beamer**...
+
+* General template
+* Sectioning
+* Equations (inline, outside)
+* Table
+
+**Markdown**...
 
 ## Managing lists of papers
 
@@ -111,26 +140,59 @@ Lao-tzu
     * Reference manager
     * Online services (e.g. Mendeley)
 
+* Bibtex demo...
+
 ## Analyzing data
 
+* **Platforms** for statistical analysis & **scripting languages**
+* Examples: Python, R, STATA
 * The power of code Vs. point-and-click
-* Platforms for statistical analysis of data
 
-    * Python
-    * R
-    * STATA
+    * **Flexibility** (Python)
+    * Typically **wider range** of methods (STATA)
+    * **Extensible** and updated more rapidly (R)
+    * **Reproducible** and transparent (remember *exactly* what you did)
+
+## Analyzing data
+
+IPython notebook demo...
+
+* Load up data
+* Create descriptives
+* Scatter plot
+* Run a model and simple print
+* Print LaTeX output
 
 ## Saving the workflow
 
-* Backup: "You don't need it until you really need it"
-* Versioning control: "How did I get to that table of results?"
+**Backup**: "You don't need it until you really need it"
 
-# Conclusion
+* Security copy of all your (valuable) documents
+* External drive Vs. Cloud solution
+* Software to make the process painless or automated
+* Many options: TimeMachine, Amazon Glacier...
 
-TBD
+## Saving the workflow
+
+**Versioning control**: *"How did I get to that table of results?"*
+
+* Save snapshots of a project in an intelligent way
+* Allows to trace the *history* of a project/document (very neat [example](http://flowingdata.com/2012/11/30/time-lapse-writing-of-a-research-paper))
+* Very well developed for code development
+* Examples: DropBox, git, svn...
+
+# Putting all together
+
+Amsterdam paper example:
+
+* [http://darribas.org/buzz_adam](http://darribas.org/buzz_adam)
 
 #
-## Where to look beyond
 
-* *Kieran Healy*'s ["Choosing your Workflow Applications"](http://www.kieranhealy.org/files/misc/workflow-apps.pdf)
-* [Cambridge Replication Workshop](http://schreiberin.de/teaching/replication.html)
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img
+alt="Creative Commons License" style="border-width:0"
+src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is
+licensed under a <a rel="license"
+href="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+Attribution 4.0 International License</a>.
+>>>>>>> c173a674fc042ae4eddd1d58e993d764d2d615bd
