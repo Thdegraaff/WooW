@@ -3,9 +3,8 @@ layout: default
 title: Welcome
 ---
 
-{% capture refs %}{% include references.md %}{% endcapture %}
-{{ refs | markdownify }}
- 
+{% markdown references.md %}
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];

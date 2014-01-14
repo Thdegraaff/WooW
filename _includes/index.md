@@ -18,7 +18,7 @@ why these initiatives are important and how you can start adopting them in the
 way you conduct research day-to-day.
 
 This is the main site of the Workshop on open Workflows (WooW). Here you
-will find the [slides](slides.html) used in the session, code snippets shown as
+will find the [slides](revealjs_slides/structure.html) used in the session, code snippets shown as
 [examples](examples.html) as well as a list of further
 [references](references.html) on much of
 the material covered. Although the slides and examples will likely not change
