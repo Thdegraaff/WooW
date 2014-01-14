@@ -3,7 +3,8 @@ layout: default
 title: Welcome
 ---
 
-{% markdown _includes/examples.md %}
+{% capture examples %}{% include examples.md %}{% endcapture %}
+{{ examples | markdownify }}
  
 <script type="text/javascript">
 
