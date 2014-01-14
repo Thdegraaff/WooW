@@ -16,6 +16,8 @@
 	12) Harry van der Weijde
 	13) Jessie Bakens
 	14) Isfandiarni Soenarto Rosidin (Ifa)
+	15) Mark lijesen (will come in later)
+	16) Gaston Chang
 	
 ## Persons to send material:
 
