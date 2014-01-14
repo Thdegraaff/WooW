@@ -3,8 +3,7 @@ layout: default
 title: Welcome
 ---
 
-{% capture index %}{% include index.md %}{% endcapture %}
-{{ index | markdownify }}
+{% markdown _includes/index.md %}
  
 <script type="text/javascript">
 
