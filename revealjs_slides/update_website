@@ -1,0 +1,8 @@
+#!/bin/bash
+# Script to create a new version of the website with all updates from master
+
+git pull origin master
+
+cp ../references.md ../_includes/references.md
+
+./build

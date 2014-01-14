@@ -3,7 +3,8 @@ layout: default
 title: Welcome
 ---
 
-{% markdown references.md %}
+{% capture refs %}{% include references.md %}{% endcapture %}
+{{ refs | markdownify }}
 
 <script type="text/javascript">
 
