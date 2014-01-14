@@ -188,12 +188,6 @@ Amsterdam paper example:
 * [http://darribas.org/buzz_adam](http://darribas.org/buzz_adam)
 
 #
-## Where to look beyond
-
-* *Kieran Healy*'s ["Choosing your Workflow Applications"](http://www.kieranhealy.org/files/misc/workflow-apps.pdf)
-* [Cambridge Replication Workshop](http://schreiberin.de/teaching/replication.html)
-
-#
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img
 alt="Creative Commons License" style="border-width:0"
