@@ -76,6 +76,8 @@
 
 ## Why bother about a workflow or tools?
 
+* Good scientific practice: *document how you have achieved your results*
+
 * Reproducibility
 * Transparency
 * Modularity
@@ -108,23 +110,23 @@ Lao-tzu
 ## Text editting
 
 * Plain text is **simple**, light, cross-platform, flexible...
-* Many **academic** a tools are based on plain text (typesetting systems, scripting
+* Many **academic** tools are based on plain text (typesetting systems, scripting
         languages, bibliography managers)
 * **Good investment** to learn a rich text editor ("learn once, use for
         everything"):
     
-    * Efficient typing (command Vs. insert modes)
+    * Efficient typing (command vs. insert modes)
     * Syntax highlighting and indenting
     * Shortcuts, macros and templates
     * Consistent look, feel and behaviour
     
 * Examples: Vim, Emacs, other (TextMate, Sublime text, etc.,...)
 
-## Text editting
+## Text editing
 
 Vim demo...
 
-* Command Vs Insert mode
+* Command vs Insert mode
 * Syntax highlighting
 * LaTeX shortcuts
 * Python indenting
@@ -135,7 +137,7 @@ Vim demo...
   final products depend on this
 * **plain text** + **markup languages** = very powerful
 
-    * Dettach content inputting from layout and styling
+    * Detach content inputting from layout and styling
     * One source, multiple outputs (paper, slides, website...)
 
 * Examples: LaTeX, Markdown, Org
@@ -166,7 +168,7 @@ Vim demo...
 
 * **Platforms** for statistical analysis & **scripting languages**
 * Examples: Python, R, STATA
-* The power of code Vs. point-and-click
+* The power of code vs. point-and-click
 
     * **Flexibility** (Python)
     * Typically **wider range** of methods (STATA)
@@ -188,9 +190,9 @@ IPython notebook demo...
 **Backup**: "You don't need it until you really need it"
 
 * Security copy of all your (valuable) documents
-* External drive Vs. Cloud solution
+* External drive vs. Cloud solution
 * Software to make the process painless or automated
-* Many options: TimeMachine, Amazon Glacier...
+* Many options: TimeMachine, Dropbox, Amazon Glacier...
 
 ## Saving the workflow
 
@@ -201,7 +203,7 @@ IPython notebook demo...
 * Very well developed for code development
 * Examples: DropBox, git, svn...
 
-# Putting all together
+# Putting it all together
 
 Amsterdam paper example:
 
