@@ -33,8 +33,8 @@
 - We are not advocating tools
 - instead, we are more interested in the principles behind a good open (scientific) workflow, aware of the facts that
 
-    * there is no final, optimal set of workflow tools
-    * investing is very costly
+    * there is no final, optimal, set of workflow tools
+    * investment is very costly
     
 - aiming for a broader discussion 
 
@@ -74,6 +74,15 @@
 * Send paper to journal and go back once again to i. until referees satisfied
 * And... documenting throughout the entire process!!!
 
+## Why bother about a workflow or tools?
+
+* Reproducibility
+* Transparency
+* Modularity
+* Portability (across systems and users)
+* Efficiency
+* Self-sanity
+
 ## Why should it be open?
 
 * Open Science
@@ -82,7 +91,6 @@
 * Modularity
 * Portability (across systems and users)
 * Efficiency
-* Self-sanity
 
 ## When should I adopt an open workflow?
 
