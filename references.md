@@ -17,7 +17,8 @@
 
 * [Program] [Vim](http://www.vim.org/)
 * [Program] [Emacs](https://www.gnu.org/software/emacs/)
-* [Program] [TexMate](http://macromates.com/) (Mac only)
+* [Program] [TextMate](http://macromates.com/) (Mac only)
+* [Program] [Sublime Text](http://www.sublimetext.com/2) (Cross-platform)
 
 ## LaTeX
 
@@ -29,6 +30,7 @@
 ### R
 
 * [Site] [Official page](http://www.r-project.org/).
+* [Program] [RStudio](http://www.rstudio.com/) 
 
 ### Python
 
@@ -42,6 +44,7 @@
 ## Backup solutions
 
 * [Program] [Time Machine](https://www.apple.com/support/timemachine/)
+* [Program] [Dropbox](http://www.dropbox.com/)
 * [Service] [Amazon Glacier](https://aws.amazon.com/glacier/)
 
 ## Version control
