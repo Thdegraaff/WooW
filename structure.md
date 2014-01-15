@@ -28,7 +28,7 @@
 
 - In the *social sciences* few attention to what tools to use (and why)
 
-## What this workshop *is* and *is not*
+## What we want with this workshop *is* and *is not*
 
 - We are not advocating tools
 - instead, we are more interested in the principles behind a good open (scientific) workflow, aware of the facts that
@@ -37,6 +37,7 @@
     * investment is very costly
     
 - aiming for a broader discussion 
+- and stimulating a wider use
 
 
 # Workflow 
