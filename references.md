@@ -30,8 +30,9 @@
 ### R
 
 * [Site] [Official page](http://www.r-project.org/).
-* [Program] [RStudio](http://www.rstudio.com/)
+* [Program] [RStudio](http://www.rstudio.com/) A very good text editor for both R and LaTeX with Git support
 * [Site] [knitr](http://yihui.name/knitr/) Combining R with LaTeX or Markdown for *simultaneous* output of text and code.
+* [Site] [Computational Econometrics in R](http://cran.r-project.org/web/views/Econometrics.html) Collection of useful packages to do econometric stuff.
 
 ### Python
 
