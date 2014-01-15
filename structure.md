@@ -14,7 +14,7 @@
 
 - Conclusion 
 
-# 
+# Introduction
 
 ## *Why* this workshop?
 
@@ -26,6 +26,17 @@
     * access to your own files
 
 - In the *social sciences* few attention to what tools to use (and why)
+
+## What this workshop *is* and *is not*
+
+- We are not advocating tools
+- instead, we are more interested in the principles behind a good open (scientific) workflow, aware of the facts that
+
+    * there is no final, optimal set of workflow tools
+    * investing is very costly
+    
+- aiming for a broader discussion 
+
 
 # Workflow 
 
