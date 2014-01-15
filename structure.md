@@ -5,6 +5,7 @@
 # Outline
 
 - Introduction: Why discuss this and why this workshop
+- What is an open workflow (for social scientists)
 - Tools for (open) workflows (Examples)
 
     * Editing 
