@@ -30,7 +30,8 @@
 ### R
 
 * [Site] [Official page](http://www.r-project.org/).
-* [Program] [RStudio](http://www.rstudio.com/) 
+* [Program] [RStudio](http://www.rstudio.com/)
+* [Site] [knitr](http://yihui.name/knitr/) Combining R with LaTeX or Markdown for *simultaneous* output of text and code.
 
 ### Python
 
