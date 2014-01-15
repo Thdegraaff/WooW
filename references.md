@@ -24,6 +24,7 @@
 
 * [Site] [Official page](http://www.latex-project.org/).
 * [Tutorial] [WikiBook on LaTeX](https://en.wikibooks.org/wiki/LaTeX)
+* [Site] [Tikz for economists](http://thetarzan.wordpress.com/category/tikz-for-economists/) How to draw those pesky economic diagrams in LaTeX
 
 ## Statistical platforms
 
