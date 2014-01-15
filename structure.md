@@ -28,9 +28,9 @@
 
 - In the *social sciences* few attention to what tools to use (and why)
 
-## What we want with this workshop *is* and *is not*
+## What we want (and don't want) with this workshop 
 
-- We are not advocating tools
+- We are not advocating particular tools
 - instead, we are more interested in the principles behind a good open (scientific) workflow, aware of the facts that
 
     * there is no final, optimal, set of workflow tools
