@@ -1,5 +1,5 @@
 # Load up data
-db <- read.csv("buzz_data.csv")
+db <- read.csv("/Users/tomba/Thomas/Colleges/WooW/examples/buzz_data.csv")
 
 # Print top
 head(db)
