@@ -55,5 +55,7 @@
 * [Article] [Version control explained](http://betterexplained.com/articles/a-visual-guide-to-version-control/)
 * [Program] [Git](http://git-scm.com/) and [GitHub](http://github.com) (hosting
   service for git projects)
+* [Book] [Pro Git](http://git-scm.com/book): great free book explaining git
+  but also principles of versioning controls and general concepts.
 
 
