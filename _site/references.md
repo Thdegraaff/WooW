@@ -17,18 +17,23 @@
 
 * [Program] [Vim](http://www.vim.org/)
 * [Program] [Emacs](https://www.gnu.org/software/emacs/)
-* [Program] [TexMate](http://macromates.com/) (Mac only)
+* [Program] [TextMate](http://macromates.com/) (Mac only)
+* [Program] [Sublime Text](http://www.sublimetext.com/2) (Cross-platform)
 
 ## LaTeX
 
 * [Site] [Official page](http://www.latex-project.org/).
 * [Tutorial] [WikiBook on LaTeX](https://en.wikibooks.org/wiki/LaTeX)
+* [Site] [Tikz for economists](http://thetarzan.wordpress.com/category/tikz-for-economists/) How to draw those pesky economic diagrams in LaTeX
 
 ## Statistical platforms
 
 ### R
 
 * [Site] [Official page](http://www.r-project.org/).
+* [Program] [RStudio](http://www.rstudio.com/) A very good text editor for both R and LaTeX with Git support
+* [Site] [knitr](http://yihui.name/knitr/) Combining R with LaTeX or Markdown for *simultaneous* output of text and code.
+* [Site] [Computational Econometrics in R](http://cran.r-project.org/web/views/Econometrics.html) Collection of useful packages to do econometric stuff.
 
 ### Python
 
@@ -42,6 +47,7 @@
 ## Backup solutions
 
 * [Program] [Time Machine](https://www.apple.com/support/timemachine/)
+* [Program] [Dropbox](http://www.dropbox.com/)
 * [Service] [Amazon Glacier](https://aws.amazon.com/glacier/)
 
 ## Version control
