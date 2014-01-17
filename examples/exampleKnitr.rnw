@@ -1,0 +1,38 @@
+\documentclass{article}
+\begin{document}
+
+\title{The socio-cultural sources of urban buzz}
+\author{Daniel Arribas-Bel, Karima Kourtit, Peter Nijkamp}
+\maketitle
+\abstract{Cities have become playing grounds for competitive behaviour and rapid economic dynamics. But in many cities (or urban agglomerations) economic growth is mainly manifested in specific geographic areas, where creative people and innovative entrepreneurs are located. This paper offers first the foundation for analysing the so-called 'urban buzz' and its interlinked primary drivers. The paper will next develop an analytical framework for testing the buzz hypothesis, with a special reference to the importance of social networks in Amsterdam. In our empirical analysis, we use a unique data set on social network connectivity and spatial concentration in a city, based on location-sharing services through the use of Foursquare. Our urban buzz model shows clearly that buzz and socio-economic (cultural) diversity are closely connected phenomena.}
+
+\section{Reading the data}
+
+First, we read in some stuff and do some simple descriptives (we do no display them here)
+
+<<foo, echo=TRUE, results='hide'>>=
+db <- read.csv("~/Thomas/Colleges/WooW/examples/buzz_data.csv")
+head(db)
+tail(db)
+summary(db)
+library(stargazer) 
+@
+Then we are interested in some nice plots
+<<foo1, echo=TRUE>>=
+plot(density(db$div_i))
+@
+
+<<foo5, echo=TRUE>>=
+plot(db$div_i, db$industrie_pct_area)
+@
+And finally we do a simple OLS and display the results in a {\LaTeX} table
+<<foo2, echo=TRUE>>=
+ols <- lm(checkins_all ~ total_units + div_i, data=db)
+@
+
+
+<<foo3, echo=FALSE, results='asis'>>=
+stargazer(ols, title="Regression results", style="aer")
+@
+
+\end{document}
